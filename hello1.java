@@ -1,4 +1,4 @@
-//This program is used to print Hello
+//This program is used to print Hello World
 import java.io.*;
 class hello1
 {
